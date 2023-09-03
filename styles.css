@@ -1,8 +1,4 @@
-
-/*Estilo para el div*/
-
-.div {
+div{
     padding: 5px;
-    background-color: green;
+    background-color: rgb(142, 242, 142);
 }
-
