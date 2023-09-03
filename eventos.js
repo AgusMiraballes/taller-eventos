@@ -1,6 +1,7 @@
 //Alerta al hacer click
-function alerta() {
+function alerta(event) {
     alert("¡Hola!");
+    event.stopPropagation();
     }
 
 //Manejador de eventos
